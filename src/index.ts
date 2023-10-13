@@ -1,5 +1,4 @@
 namespace Constant {
-    export const ISBN_INDEX = -3;
     export const BASE_URL = "https://primo.clcn.net.cn/primo_library/libweb/action/"
     export const ICON_EXTERN = `<svg t="1697200936413" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5571" width="16" height="16"><path d="M764.1 871.9h-612v-612h242v100h-142v412h412v-142h100z" p-id="5572" fill="#0b7c2a"></path><path d="M355.736 597.38l350.58-350.58 70.71 70.71-350.58 350.58z" p-id="5573" fill="#0b7c2a"></path><path d="M871.9 500.9l-97 24.3-41.1-164.3-14.2-56.5-56.6-14.2-164.2-41.1 24.4-97 279 69.7z" p-id="5574" fill="#0b7c2a"></path></svg>`
 }
